@@ -81,7 +81,7 @@ Overall, almost all of the rides were under 1 hour regardless of gender.
 
 Also, most rides that were taken in August of 2019 were by males.
 
-Before started in Des Moines we want to find out the answers to the following questions:
+Before starting in Des Moines we want to find out the answers to the following questions:
 
 - What are the demographics such as age and gender?
 - How many visitors in Des Moines currently use mass transit or walk from one point to another?
