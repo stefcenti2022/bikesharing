@@ -72,7 +72,7 @@ We also looked at how long each ride was and which bikes may need more attention
 
 Several dashboards were created to help make several points in our story.
 
-<img src="./images/story_start.png" alt="Story Start Point" width="400"/>
+<img src="./images/introduction.png" alt="Story Intro" width="400"/>
 
 To see the full story complete with dashboards check out this link:
 [NYC Bike Tour Story] (https://public.tableau.com/app/profile/stefc5581/viz/BikeSharingAnalysis_16678076895740/CitiBikeOverview?publish=yes)
